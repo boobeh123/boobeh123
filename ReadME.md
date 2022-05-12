@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://bobby-asakawa.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1D8592f&style=plastic"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1D8592&style=plastic"/>
   </a>
   <a href="https://www.linkedin.com/in/bobby-asakawa/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=5AD0A5&style=plastic&logo=linkedin&logo-color=white"/>
@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=5AD0A5&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=1D8592f&style=plastic&"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=1D8592&style=plastic&"/>
   </a>
 </p>
 
