@@ -21,9 +21,9 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=10768E&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=319D98&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=46B79E&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=5ACEA5&style=plastic&logo=git"/>
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </p>
 
