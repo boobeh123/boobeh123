@@ -20,3 +20,8 @@
 <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></span>
+
+## GitHub Stats
+
+[![boobeh123's GitHub stats](https://github-readme-stats.vercel.app/api?username=boobeh123)](https://github.com/boobeh123/github-readme-stats)
+[![boobeh123's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boobeh123)](https://git.io/streak-stats)
