@@ -23,5 +23,5 @@
 
 ## GitHub Stats
 
-[![boobeh123's GitHub stats](https://github-readme-stats.vercel.app/api?username=boobeh123&show_icons=true&theme=github_dark)](https://github.com/boobeh123/github-readme-stats)
+[![boobeh123's GitHub stats](https://github-readme-stats.vercel.app/api?username=boobeh123&show_icons=true&theme=github_dark&width=500)](https://github.com/boobeh123/github-readme-stats)
 [![boobeh123's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=boobeh123&theme=dark)](https://git.io/streak-stats)
