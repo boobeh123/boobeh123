@@ -7,16 +7,17 @@
   <a href="https://angel.co/u/bobby-asakawa" target="_blank"><img src="https://img.shields.io/badge/-ANGELLIST-5ACEA5?style=for-the-badge&logo=angellist&logoColor=white" alt="Angellist"/></a>
 </div>
 
----
+<h3>About</h3>
+<p align="left">I am a front end developer with experience in a JavaScript (ES6) and OOP principles. I am currently trying to learn and master back end development.</p>
 
 <h1 align="center">Toolbox</h1>
 
-<h3>Languages</h3>
+<h3 align="center">Languages</h3>
 <span><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> </span>
 <span><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></span>
 
-<h3>Software Tools</h3>
+<h3 align="center">Software Tools</h3>
 <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></span>
