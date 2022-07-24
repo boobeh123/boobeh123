@@ -1,4 +1,4 @@
-h1>About</h3>
+<h1>About</h1>
 <p align="left">I am a front end developer with experience in a JavaScript (ES6) and OOP principles. I am currently trying to learn and master back end development.</p>
 
 <div align="center">
