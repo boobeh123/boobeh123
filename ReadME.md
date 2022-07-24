@@ -1,5 +1,5 @@
-<h1>About</h1>
-<p align="left">I am a front end developer with experience in a JavaScript (ES6) and OOP principles. I am currently trying to learn and master back end development.</p>
+
+<img src="images/Name.png" width="100%">
 
 <div align="center">
   <a href="https://bobby-asakawa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-PORTFOLIO-10768E?style=for-the-badge" alt="Portfolio" /></a>
@@ -19,6 +19,9 @@
 <span><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></span>
+
+<h1>About</h1>
+<p align="left">I am a front end developer with experience in a JavaScript (ES6) and OOP principles. I am currently trying to learn and master back end development.</p>
 
 ## GitHub Stats
 <div>
