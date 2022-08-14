@@ -26,5 +26,5 @@
 ## GitHub Stats
 <div>
   <a href="https://github.com/boobeh123/github-readme-stats">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=boobeh123&show_icons=true&theme=github_dark" /></a>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=boobeh123&show_icons=true&theme=github_dark" /></a>
 </div>
