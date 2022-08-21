@@ -20,11 +20,14 @@
 <span><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></span>
 
+<h3>Frameworks</h3>
+<span><img src="https://img.shields.io/badge/node.js%20-3F873F.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></span>
+
 <h1>About</h1>
 <p align="left">I am a front end developer with experience in JavaScript (ES6) and OOP principles. I am currently trying to learn and master back end development.</p>
 
 ## GitHub Stats
 <div>
   <a href="https://github.com/boobeh123/github-readme-stats">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=boobeh123&show_icons=true&theme=github_dark" /></a>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=boobeh123&show_icons=true&theme=github_dark" /></a>
 </div>
