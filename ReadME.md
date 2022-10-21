@@ -32,7 +32,12 @@
 <h1>About</h1>
 <p align="left">I am a front end developer with experience in JavaScript (ES6) and OOP principles. I am currently trying to learn and master back end development.</p>
 
-## GitHub Stats
+## Stats
+<div>
+  <a href="https://www.codewars.com/users/boobeh123/">
+    <img src="https://www.codewars.com/users/boobeh123/badges/large" alt="CodeWars Badge" />
+  </a>
+</div>
 <div>
   <a href="https://github.com/boobeh123/github-readme-stats">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=boobeh123&show_icons=true&theme=github_dark" /></a>
