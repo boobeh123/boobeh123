@@ -25,6 +25,9 @@
 <h3>Runtime & Frameworks</h3>
 <span><img src="https://img.shields.io/badge/node.js%20-3F873F.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Materialize--CSS-ee6e73?style=for-the-badge&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Mongoose.js-8A0403?style=for-the-badge&logoColor=white"/></span>
+
 
 <h1>About</h1>
 <p align="left">I am a front end developer with experience in JavaScript (ES6) and OOP principles. I am currently trying to learn and master back end development.</p>
