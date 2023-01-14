@@ -41,7 +41,7 @@
       <h3 align="center">Web Design</h3>
         <br />
         <a target="_blank" href="https://btacuisine-restaurant.netlify.app/">
-            <img src="/images/Demo1.png" width="100%" alt="Restaurant layout"/>
+            <img src="/images/Demo1.gif" width="100%" alt="Restaurant layout"/>
         </a>
         <br />
         <p align="center">
