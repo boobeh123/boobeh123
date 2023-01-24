@@ -31,85 +31,15 @@
 
 
 <h1>About</h1>
-<p align="left">I am a full-stack web developer with experience in JavaScript (ES6) and OOP principles.</p>
+<p align="left">I am a front end developer with experience in JavaScript (ES6) and OOP principles.</p>
 
-<h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Web Design</h3>
-        <br />
-        <a target="_blank" href="https://btacuisine-restaurant.netlify.app/">
-            <img src="/images/Demo1.gif" width="100%" alt="Restaurant layout"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/boobeh123/100-Devs-Web-Dev/tree/master/Class_10/cuisine-restaurant-mithun-ray" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://btacuisine-restaurant.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+## Stats
+<div>
+  <a href="https://www.codewars.com/users/boobeh123/">
+    <img src="https://www.codewars.com/users/boobeh123/badges/large" alt="CodeWars Badge" />
   </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript, MaterializeCSS</strong> - A functional mock web design</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Web Design</h3>
-        <br />
-      <a target="_blank" href="#">
-            <img src="/images/Coming-soon.png" width="100%"  alt="Coming soon"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Technologies used</strong> - Description</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Web App</h3>
-      <br />
-        <a target="_blank" href="#">
-          <img src="/images/Coming-soon.png" width="100%" alt="Coming soon"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Technologies used</strong> - Description</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Web App</h3>
-        <br />
-        <a target="_blank" href="#">
-          <img src="/images/Coming-soon.png" width="100%" alt="Coming soon"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Technologies used</strong> - Description</p>
-    </td>
-  </tr>
-</table>
+</div>
+<div>
+  <a href="https://github.com/boobeh123/github-readme-stats">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=boobeh123&show_icons=true&theme=github_dark" /></a>
+</div>
